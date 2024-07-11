@@ -31,7 +31,7 @@
 
 
 ## Enlaces 
-<br> [Sesión 07]([app/src/main/java/com/example/practicas/practica01](https://github.com/Elhiu2308/Proyecto-Final-Modulo-Java/blob/f5324ac40b3221433e74dfb8d75be9b52f27c43c/app/src/main/java/com/example/practicas/practica01.kt)](https://github.com/Elhiu2308/Proyecto-Final-Modulo-Java/tree/f5324ac40b3221433e74dfb8d75be9b52f27c43c/app/src/main/java/com/example/practicas).
+<br> [Sesión 07] (https://github.com/Elhiu2308/Proyecto-Final-Modulo-Java/tree/f5324ac40b3221433e74dfb8d75be9b52f27c43c/app/src/main/java/com/example/practicas).
 
 
 
