@@ -32,7 +32,7 @@
 
 ## Enlace
 
-[Sesión 06](practicas/app/src/main/java/com/example/practicas).
+[Sesión 06](app/src/main/java/com/example/practicas)
 
 
 
