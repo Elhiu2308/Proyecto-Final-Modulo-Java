@@ -3,7 +3,7 @@
 ## Los temas vistos en las sesiones fueron los siguientes: 
 
 1. Sesión 01: Fundamentos Android.
-        * Historia y versiones del sitema operativo android.
+/n * Historia y versiones del sitema operativo android.
         
 2. Sesión 02: Pilares pensamiento logico computational.
         * Los pilares del pensaamiento logico: Abstraction, descomposicion, reconocimiento de patrones y algoritmo.
