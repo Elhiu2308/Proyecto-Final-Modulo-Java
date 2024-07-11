@@ -34,5 +34,9 @@
 
 [Sesión 06](app/src/main/java/com/example/practicas)
 
+[Sesión 08](app/src/main/res/layout/activity_main.xml)
+
+
+
 
 
