@@ -8,7 +8,7 @@
 3. Sesión 02: Pilares pensamiento logico computational.
 <br>* Los pilares del pensaamiento logico: Abstraction, descomposicion, reconocimiento de patrones y algoritmo.
 
-4. Sesió¿n 03: InstalaciOn y entorno de desarrollo.
+4. Sesión 03: InstalaciOn y entorno de desarrollo.
 <br>* Descarga e instalación del entorno de desarrollo Android Studio.
 
 5. Sesión 05: Github y archivo Readme.md.
@@ -17,7 +17,7 @@
 <br>* Inicializar y vincular Github con IDE Android Studio.
 <br>* Subir proyecto desde terminal de IDE Android studio a Github.
 
-6. Sesión 04: Control de versiones.
+6. Sesión 06: Control de versiones.
 <br>* Control de versiones de Github con commit -m "Primer commit". 
 
 7. Sesión 06: Codificación.
@@ -31,7 +31,7 @@
 
 
 ## Enlaces 
-<br> [Sesión 01] ([app/src/main/java/com/example/practicas/practica01](https://github.com/Elhiu2308/Proyecto-Final-Modulo-Java/blob/f5324ac40b3221433e74dfb8d75be9b52f27c43c/app/src/main/java/com/example/practicas/practica01.kt).
+<br> [Sesión 07]([app/src/main/java/com/example/practicas/practica01](https://github.com/Elhiu2308/Proyecto-Final-Modulo-Java/blob/f5324ac40b3221433e74dfb8d75be9b52f27c43c/app/src/main/java/com/example/practicas/practica01.kt)](https://github.com/Elhiu2308/Proyecto-Final-Modulo-Java/tree/f5324ac40b3221433e74dfb8d75be9b52f27c43c/app/src/main/java/com/example/practicas).
 
-<br> [Sesión 02] (Proyecto-Final-Modulo-Java/practica01).&nsb;Text
+
 
